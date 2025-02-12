@@ -62,6 +62,7 @@ for(inicializacion, condicion, incremento){
 //Código que se ejecuta
 }
 
+
 ```
 
 **Ejemplo**
